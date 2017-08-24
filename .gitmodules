@@ -1,3 +1,0 @@
-[submodule "child_lib"]
-	path = child_lib
-	url = git@github.com:prometheu3/git_child.git
